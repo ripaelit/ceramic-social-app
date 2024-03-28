@@ -1,0 +1,4 @@
+
+#!/usr/bin/env sh
+
+node /home/dev/Documents/ceramic_task/ceramic-getting-started/ceramic-app/node_modules/.bin/ceramic "$@"
